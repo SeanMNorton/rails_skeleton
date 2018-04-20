@@ -8,6 +8,7 @@
  * devise
  * dotenv
  * bootstrap-rails
+ * jquery-rails
  * rspec/shoulda-matchers
 
 
