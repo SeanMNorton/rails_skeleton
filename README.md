@@ -1,7 +1,7 @@
 # README
 
 ## Versions
- * ruby version `2.5.0`
+ * ruby version `2.5.1`
  * rails version `5.2.0`
 
 ## Added Gems
@@ -9,7 +9,7 @@
  * dotenv
  * bootstrap-rails
  * rspec/shoulda-matchers
- 
+
 
 ## Configuration
 ### Getting started
