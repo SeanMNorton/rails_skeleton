@@ -10,6 +10,8 @@
  * bootstrap-rails
  * jquery-rails
  * rspec/shoulda-matchers
+ * pg
+ * database_cleaner
 
 
 ## Configuration
